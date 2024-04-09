@@ -1,0 +1,1 @@
+{"version":3,"file":"demo01.js","sourceRoot":"","sources":["../demo01.ts"],"names":[],"mappings":";AAAA,SAAS,UAAU,CAAC,CAAQ,EAAE,CAAQ;IAClC,OAAO,CAAC,GAAG,CAAC,CAAC;AACf,CAAC;AACD,OAAO,CAAC,GAAG,CAAC,UAAU,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC","sourcesContent":["function addNumbers(x:number, y:number) {\n    return x + y;\n  }\n  console.log(addNumbers(3, 6));"]}
